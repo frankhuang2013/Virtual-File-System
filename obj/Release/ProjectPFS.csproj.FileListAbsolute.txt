@@ -1,0 +1,9 @@
+C:\Users\huang\OneDrive\ProjectPFS\ProjectPFS\bin\Release\ProjectPFS.exe.config
+C:\Users\huang\OneDrive\ProjectPFS\ProjectPFS\bin\Release\ProjectPFS.exe
+C:\Users\huang\OneDrive\ProjectPFS\ProjectPFS\bin\Release\ProjectPFS.pdb
+C:\Users\huang\OneDrive\ProjectPFS\ProjectPFS\obj\Release\Window.CommandLineWindow.resources
+C:\Users\huang\OneDrive\ProjectPFS\ProjectPFS\obj\Release\ProjectPFS.Properties.Resources.resources
+C:\Users\huang\OneDrive\ProjectPFS\ProjectPFS\obj\Release\ProjectPFS.csproj.GenerateResource.cache
+C:\Users\huang\OneDrive\ProjectPFS\ProjectPFS\obj\Release\ProjectPFS.csproj.CoreCompileInputs.cache
+C:\Users\huang\OneDrive\ProjectPFS\ProjectPFS\obj\Release\ProjectPFS.exe
+C:\Users\huang\OneDrive\ProjectPFS\ProjectPFS\obj\Release\ProjectPFS.pdb
